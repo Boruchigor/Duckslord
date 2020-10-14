@@ -1,0 +1,10 @@
+h1 {
+    color: limegreen;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
